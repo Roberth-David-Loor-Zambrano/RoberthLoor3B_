@@ -1,0 +1,6 @@
+D:\c#Proyects\Este si xd\RoberthLoor3b\RoberthLoor3b\bin\Debug\RoberthLoor3b.exe.config
+D:\c#Proyects\Este si xd\RoberthLoor3b\RoberthLoor3b\bin\Debug\RoberthLoor3b.exe
+D:\c#Proyects\Este si xd\RoberthLoor3b\RoberthLoor3b\bin\Debug\RoberthLoor3b.pdb
+D:\c#Proyects\Este si xd\RoberthLoor3b\RoberthLoor3b\obj\Debug\RoberthLoor3b.csprojAssemblyReference.cache
+D:\c#Proyects\Este si xd\RoberthLoor3b\RoberthLoor3b\obj\Debug\RoberthLoor3b.exe
+D:\c#Proyects\Este si xd\RoberthLoor3b\RoberthLoor3b\obj\Debug\RoberthLoor3b.pdb
